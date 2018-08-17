@@ -1,3 +1,2 @@
-# Lungta
+# Pyrios
 
-The Web Site for the GitHub events on Telegram Channels
